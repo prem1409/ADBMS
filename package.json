@@ -1,0 +1,15 @@
+{
+  "name": "adbms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author":  "Atharva Patil",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "parser": "^0.1.4"
+  }
+}
